@@ -1,0 +1,10 @@
+const BookActionTypes = {
+  LOAD_BOOKS: "LOAD_BOOKS",
+  ADD_BOOK: "ADD_BOOK",
+  DELETE_BOOK: "DELETE_BOOK",
+  EDIT_BOOK: "EDIT_BOOK",
+  UPDATE_BOOK: "UPDATE_BOOK",
+  EDITING_FALSE: "EDITING_FALSE",
+};
+
+export default BookActionTypes;
